@@ -14,12 +14,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Array
 |  |
 | ------- |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+## Greedy
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
