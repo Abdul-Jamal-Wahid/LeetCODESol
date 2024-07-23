@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/2502-sort-the-people) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 ## Greedy
@@ -38,9 +39,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
