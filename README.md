@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2502-sort-the-people](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Array
