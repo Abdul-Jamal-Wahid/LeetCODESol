@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0268-missing-number) |
 | [1642-water-bottles](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0053-maximum-subarray) |
+| [0268-missing-number](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0485-max-consecutive-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -43,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0268-missing-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0268-missing-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
@@ -58,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
