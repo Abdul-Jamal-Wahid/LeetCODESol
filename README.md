@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0053-maximum-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/2502-sort-the-people) |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/2502-sort-the-people) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
