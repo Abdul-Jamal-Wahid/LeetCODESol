@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -47,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0451-sort-characters-by-frequency) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0451-sort-characters-by-frequency) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
@@ -72,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0268-missing-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
