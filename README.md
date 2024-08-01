@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2502-sort-the-people](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/2502-sort-the-people) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+| [2727-number-of-senior-citizens](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/2727-number-of-senior-citizens) |
 ## Greedy
 |  |
 | ------- |
