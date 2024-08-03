@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0485-max-consecutive-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/2502-sort-the-people) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/2684-determine-the-winner-of-a-bowling-game) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0451-sort-characters-by-frequency) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/2502-sort-the-people) |
 ## Sorting
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/0451-sort-characters-by-frequency) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Abdul-Jamal-Wahid/LeetCODESol/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
